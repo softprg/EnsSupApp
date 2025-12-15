@@ -6,5 +6,6 @@ streamlit_quill
 docx
 reportlab
 bs4
+streamlit_calendar 
 
 
