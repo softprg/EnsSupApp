@@ -1,6 +1,7 @@
 plotly
 fpdf 
 icalendar 
+SQLAlchemy
 streamlit_quill
 docx
 reportlab
