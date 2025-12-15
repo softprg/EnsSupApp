@@ -3,7 +3,7 @@ fpdf
 icalendar 
 SQLAlchemy
 streamlit_quill
-docx
+python-docx
 reportlab
 bs4
 streamlit_calendar 
