@@ -1,3 +1,10 @@
 plotly
 fpdf 
 icalendar 
+sqlalchemy
+streamlit_quill
+docx
+reportlab
+bs4
+random
+
